@@ -1,0 +1,10 @@
+C:\Users\305-4\Desktop\oberuhtinapr21\zachet\obj\Debug\zachet.csproj.AssemblyReference.cache
+C:\Users\305-4\Desktop\oberuhtinapr21\zachet\obj\Debug\zachet.Form1.resources
+C:\Users\305-4\Desktop\oberuhtinapr21\zachet\obj\Debug\zachet.Properties.Resources.resources
+C:\Users\305-4\Desktop\oberuhtinapr21\zachet\obj\Debug\zachet.csproj.GenerateResource.cache
+C:\Users\305-4\Desktop\oberuhtinapr21\zachet\obj\Debug\zachet.csproj.CoreCompileInputs.cache
+C:\Users\305-4\Desktop\oberuhtinapr21\zachet\bin\Debug\zachet.exe.config
+C:\Users\305-4\Desktop\oberuhtinapr21\zachet\bin\Debug\zachet.exe
+C:\Users\305-4\Desktop\oberuhtinapr21\zachet\bin\Debug\zachet.pdb
+C:\Users\305-4\Desktop\oberuhtinapr21\zachet\obj\Debug\zachet.exe
+C:\Users\305-4\Desktop\oberuhtinapr21\zachet\obj\Debug\zachet.pdb
